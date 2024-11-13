@@ -25,7 +25,7 @@ Contact
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/Asi
+git clone https://github.com/MoumitaIam/sign-language-detection-by-ANN
 Install dependencies:
 bash
 Copy code
